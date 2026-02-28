@@ -1,0 +1,5 @@
+{
+  "name": "Harmony: Universal Music Player",
+  "description": "A cross-platform music player integrating Apple Music, Spotify, and YouTube Music with Gemini-powered smart search.",
+  "requestFramePermissions": []
+}
